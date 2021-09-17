@@ -1,0 +1,21 @@
+body{
+  font-family: 'Comic sans ms';
+}
+#header {
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+#header button {
+  width: 100px;
+}
+
+
+.hide {
+  display: none !important;
+}
+
+#graph3D:focus {
+  outline: none;
+}
